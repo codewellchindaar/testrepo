@@ -1,2 +1,2 @@
 # testrepo
-creating test repo for demo use
+used in november of 1977 winter season
